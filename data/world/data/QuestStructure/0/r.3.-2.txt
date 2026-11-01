@@ -1,0 +1,9 @@
+RLCraft_DecentZombie,1553,1553,-1169,-1169
+RLCraft_UndergroundRuin3,1550,1558,-1171,-1163
+FallenPalmTree,1673,1683,-1327,-1323
+RLCraft_SmallUndergroundSkeleton,1560,1568,-1468,-1460
+RLCraft_4Towers,1618,1678,-1436,-1384
+RLCraft_SmallUndergroundSkeleton,1645,1653,-1512,-1504
+SmallWoodenCottage1,1902,1908,-1303,-1292
+StonePlantMound,2002,2007,-1215,-1210
+RLCraft_SmallUndergroundSkeleton,1960,1968,-1084,-1076
