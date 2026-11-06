@@ -1,151 +1,339 @@
-[22:16:08] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[22:16:08] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[22:16:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[22:16:08] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2859 for Minecraft 1.12.2 loading
-[22:16:08] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_504, running on Linux:amd64:6.18.54.1-microsoft-standard-WSL2, installed at /opt/java/openjdk/jre
-[22:16:08] [main/INFO] [FML]: Searching /data/./mods for mods
-[22:16:08] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[22:16:08] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[22:16:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[22:16:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[22:16:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[22:16:12] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[22:16:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[22:16:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[22:16:13] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[22:16:13] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[22:16:13] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[22:16:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[22:16:16] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2859 Initialized
-[22:16:16] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[22:16:16] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[22:16:16] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[22:16:17] [Server thread/INFO] [FML]: Searching /data/./mods for mods
-[22:16:18] [Server thread/INFO] [FML]: Forge Mod Loader has identified 4 mods to load
-[22:16:18] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[22:16:18] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at CLIENT
-[22:16:18] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at SERVER
-[22:16:19] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[22:16:19] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
-[22:16:19] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[22:16:19] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[22:16:19] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[22:16:19] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[22:16:19] [Server thread/INFO] [FML]: Applying holder lookups
-[22:16:19] [Server thread/INFO] [FML]: Holder lookups applied
-[22:16:19] [Server thread/INFO] [FML]: Applying holder lookups
-[22:16:19] [Server thread/INFO] [FML]: Holder lookups applied
-[22:16:19] [Server thread/INFO] [FML]: Applying holder lookups
-[22:16:19] [Server thread/INFO] [FML]: Holder lookups applied
-[22:16:19] [Server thread/INFO] [FML]: Applying holder lookups
-[22:16:19] [Server thread/INFO] [FML]: Holder lookups applied
-[22:16:19] [Server thread/INFO] [FML]: Injecting itemstacks
-[22:16:19] [Server thread/INFO] [FML]: Itemstack injection complete
-[22:16:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[22:16:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[22:16:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[22:16:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[22:16:19] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[22:16:19] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:16:19] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[22:16:19] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:16:19] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:16:19] [Server thread/INFO] [FML]: Applying holder lookups
-[22:16:19] [Server thread/INFO] [FML]: Holder lookups applied
-[22:16:19] [Server thread/INFO] [FML]: Injecting itemstacks
-[22:16:19] [Server thread/INFO] [FML]: Itemstack injection complete
-[22:16:19] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 4 mods
-[22:16:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[22:16:19] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[22:16:20] [Netty Epoll Server IO #1/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
-[22:16:20] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
-[22:16:21] [Server thread/INFO] [FML]: Applying holder lookups
-[22:16:21] [Server thread/INFO] [FML]: Holder lookups applied
-[22:16:21] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@39b1e4b8)
-[22:16:23] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
-[22:16:23] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@39b1e4b8)
-[22:16:23] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@39b1e4b8)
-[22:16:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[22:16:25] [Netty Epoll Server IO #2/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
-[22:16:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 0%
-[22:16:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 68%
-[22:16:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 72%
-[22:16:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (9.423s)! For help, type "help" or "?"
-[22:16:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting remote control listener
-[22:16:29] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: RCON running on 0.0.0.0:25575
-[22:16:29] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:16:29] [Server thread/INFO] [FML]: Unloading dimension 1
-[22:18:03] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[22:18:03] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2859,mcp@9.42
-[22:18:03] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[22:18:03] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: YTeron[/172.19.0.1:47022] logged in with entity id 259 at (-174.32754438646032, 82.69433184873851, -310.24358476340313)
-[22:18:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: YTeron joined the game
-[22:18:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: YTeron moved too quickly! -1.1000483914763208,-6.253520814383805,-7.734014812805242
-[22:18:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [YTeron: Set the time to 1000]
-[22:19:23] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3476ms behind, skipping 69 tick(s)
-[22:19:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: YTeron moved too quickly! -4.631838662822133,0.0,9.673450389066659
-[22:19:49] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[22:19:49] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2861,tlskincape@1.12.2,mcp@9.42
-[22:19:49] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[22:19:49] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: nikita_642[/172.19.0.1:35756] logged in with entity id 3101 at (-85.5, 85.0, 232.5)
-[22:19:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nikita_642 joined the game
-[22:20:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: YTeron moved too quickly! -1.3377321827225046,0.0,-9.922460191976313
-[22:20:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nikita_642 fell from a high place
-[22:20:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [YTeron: Teleported YTeron to nikita_642]
-[22:21:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [YTeron: Set nikita_642's game mode to Survival Mode]
-[22:21:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [YTeron: Set nikita_642's game mode to Survival Mode]
-[22:21:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nikita_642 fell from a high place
-[22:21:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [YTeron: Set own game mode to Survival Mode]
-[22:21:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [YTeron: Set nikita_642's game mode to Survival Mode]
-[22:22:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [YTeron: Set nikita_642's game mode to Creative Mode]
-[22:22:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [YTeron: Set own game mode to Creative Mode]
-[22:26:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nikita_642 has made the advancement [Monster Hunter]
-[22:27:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: YTeron moved too quickly! 10.600239568847172,0.0,1.612723398276188
-[22:27:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: nikita_642 moved too quickly! 7.827953493983614,-6.15211258399772,-1.558986891173106
-[22:27:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: YTeron has made the advancement [Stone Age]
-[22:28:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nikita_642 has made the advancement [Stone Age]
-[22:28:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [YTeron: Set the time to 100]
-[22:30:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: YTeron moved too quickly! -8.078174841500228,0.0,6.3606712488558514
-[22:32:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: nikita_642 lost connection: Timed out
-[22:32:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nikita_642 left the game
-[22:33:16] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[22:33:16] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2861,tlskincape@1.12.2,mcp@9.42
-[22:33:17] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[22:33:17] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: nikita_642[/172.19.0.1:36182] logged in with entity id 34740 at (-170.25389835413145, 91.57632170924084, 172.44195217778866)
-[22:33:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nikita_642 joined the game
-[22:35:56] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3676ms behind, skipping 73 tick(s)
-[22:35:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: nikita_642 moved too quickly! -7.4301150170518895,-5.240559771961983,-5.219057893380921
-[22:35:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: YTeron moved too quickly! 10.607594196499683,0.0,-2.4590511828531874
-[22:36:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: YTeron moved too quickly! 10.60751455716445,0.0,-2.459032721114241
-[22:36:16] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3739ms behind, skipping 74 tick(s)
-[22:36:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: YTeron moved too quickly! 10.60759348370874,0.0,-2.4590510178560336
-[22:36:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: YTeron moved too quickly! -5.806909651428612,-5.248776728025888,-6.558345832019427
-[22:36:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: YTeron moved too quickly! -7.594601327315559,0.0,-7.041495321790819
-[22:37:36] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3716ms behind, skipping 74 tick(s)
-[22:37:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: YTeron moved too quickly! 7.868565140758278,3.3600000890176176,-5.75379355331404
-[22:37:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: YTeron moved too quickly! 6.75627188671649,6.097481125307041,4.248986566629469
-[22:38:05] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: YTeron moved too quickly! 6.056230563394365,0.6754387601295093,-8.039728352206339
-[22:38:05] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2317ms behind, skipping 46 tick(s)
-[22:38:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: YTeron moved too quickly! 3.9106272700661293,0.0,-9.292644997541856
-[22:39:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [YTeron: Set own game mode to Creative Mode]
-[22:40:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [YTeron: Set own game mode to Survival Mode]
-[22:40:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: YTeron has reached the goal [Postmortal]
-[22:40:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [YTeron: Set own game mode to Creative Mode]
-[22:41:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: YTeron lost connection: Disconnected
-[22:41:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: YTeron left the game
-[22:42:47] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2005ms behind, skipping 40 tick(s)
-[22:43:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: nikita_642 lost connection: Timed out
-[22:43:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nikita_642 left the game
-[22:46:50] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[22:46:50] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2859,mcp@9.42
-[22:46:51] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[22:46:51] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: YTeron[/172.19.0.1:57698] logged in with entity id 68843 at (1338.3180473970363, 74.86813552998275, -1270.837048537347)
-[22:46:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: YTeron joined the game
-[22:46:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [YTeron: Stopping the server]
-[22:46:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[22:46:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[22:46:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[22:46:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[22:46:59] [Server thread/INFO] [FML]: Unloading dimension 0
-[22:46:59] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[22:46:59] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[17:04:20] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[17:04:20] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[17:04:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[17:04:20] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2859 for Minecraft 1.12.2 loading
+[17:04:20] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_504, running on Linux:amd64:6.18.54.1-microsoft-standard-WSL2, installed at /opt/java/openjdk/jre
+[17:04:20] [main/INFO] [FML]: Searching /data/./mods for mods
+[17:04:20] [main/WARN] [FML]: The coremod zone.rong.mixinbooter.MixinBooterPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:04:20] [main/WARN] [FML]: The coremod MixinBooter (zone.rong.mixinbooter.MixinBooterPlugin) is not signed!
+[17:04:20] [main/INFO] [CleanMix]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/data/./mods/!mixinbooter-11.17.jar Service=MixinBooter Env=SERVER
+[17:04:20] [main/INFO] [FML]: Searching /data/./mods for mods
+[17:04:23] [main/INFO] [MixinBooter]: Finished gathering 4 mods, took 3131 ms.
+[17:04:23] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-1.0.2.31.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:04:23] [main/WARN] [FML]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:04:23] [main/WARN] [FML]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
+[17:04:23] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in NTM-CE-1.12.2-2.6.1.0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:04:23] [main/INFO] [MixinBooter]: Initializing MixinExtras...
+[17:04:24] [main/WARN] [FML]: The coremod HbmCorePlugin (com.hbm.core.HbmCorePlugin) is not signed!
+[17:04:24] [main/INFO] [LaunchWrapper]: Loading tweak class name zone.rong.mixinbooter.service.CoremodsRescuer
+[17:04:24] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:04:24] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[17:04:24] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[17:04:24] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:04:24] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:04:24] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:04:24] [main/INFO] [MixinBooter]: Loading early loader com.hbm.core.HbmCorePlugin for its mixins.
+[17:04:24] [main/INFO] [MixinBooter]: Adding [hbm.common.mixin.json] mixin configuration.
+[17:04:24] [main/INFO] [MixinBooter]: Adding [hbm.mod.mixin.json] mixin configuration.
+[17:04:24] [main/INFO] [MixinBooter]: Adding [hbm.vanilla.mixin.json] mixin configuration.
+[17:04:24] [main/INFO] [LaunchWrapper]: Calling tweak class zone.rong.mixinbooter.service.CoremodsRescuer
+[17:04:24] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:04:26] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[17:04:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:04:26] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[17:04:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[17:04:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:04:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:04:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[17:04:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[17:04:26] [main/ERROR] [CleanMix]: Classloader restrictions [PACKAGE_TRANSFORMER_EXCLUSION] encountered loading hbm.common.mixin.json:MixinFMLProxyPacket from mod hbm, name: com.hbm.mixin.MixinFMLProxyPacket
+[17:04:26] [main/ERROR] [CleanMix]: Classloader restrictions [PACKAGE_TRANSFORMER_EXCLUSION] encountered loading hbm.common.mixin.json:MixinNetworkDispatcher from mod hbm, name: com.hbm.mixin.MixinNetworkDispatcher
+[17:04:26] [main/ERROR] [CleanMix]: Classloader restrictions [PACKAGE_TRANSFORMER_EXCLUSION] encountered loading hbm.mod.mixin.json:potioncore.MixinPotionCoreEventHandler from mod hbm, name: com.hbm.mixin.mod.potioncore.MixinPotionCoreEventHandler
+[17:04:26] [main/ERROR] [CleanMix]: Classloader restrictions [PACKAGE_TRANSFORMER_EXCLUSION] encountered loading hbm.mod.mixin.json:ae2.MixinPartFluidImportBus from mod hbm, name: com.hbm.mixin.mod.ae2.MixinPartFluidImportBus
+[17:04:26] [main/INFO] [MixinExtras|Service]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.5).
+[17:04:27] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[17:04:27] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
+[17:04:27] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.block.Block Finished.
+[17:04:27] [main/INFO] [HBM CoreMod]: Patching class net.minecraft.entity.item.EntityItem / acl
+[17:04:27] [main/INFO] [HBM CoreMod]: Patching method: onUpdate / func_70071_h_
+[17:04:27] [main/INFO] [HBM CoreMod]: Injected HazardSystem hook into EntityItem#onUpdate (all return site(s))
+[17:04:29] [main/INFO] [HBM CoreMod]: Patching class net.minecraft.inventory.Container / afr
+[17:04:29] [main/INFO] [HBM CoreMod]: Patching method: detectAndSendChanges / func_75142_b
+[17:04:29] [main/INFO] [HBM CoreMod]: Injected hook at NonNullList#set site
+[17:04:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[17:04:30] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2859 Initialized
+[17:04:30] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[17:04:30] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[17:04:30] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[17:04:30] [Server thread/INFO] [HBM CoreMod]: Patching class net.minecraftforge.common.ForgeHooks / net.minecraftforge.common.ForgeHooks
+[17:04:30] [Server thread/INFO] [HBM CoreMod]: Patching method: onPickBlock(Lnet/minecraft/util/math/RayTraceResult;Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;)Z
+[17:04:30] [Server thread/INFO] [HBM CoreMod]: Patching method: isLivingOnLadder(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/entity/EntityLivingBase;)Z
+[17:04:30] [Server thread/INFO] [HBM CoreMod]: Injected CheckLadderEvent hook before fullBoundingBoxLadders read
+[17:04:30] [Server thread/INFO] [FML]: Searching /data/./mods for mods
+[17:04:31] [Server thread/INFO] [FML]: Disabling mod ctm it is client side only.
+[17:04:35] [Server thread/INFO] [FML]: Forge Mod Loader has identified 8 mods to load
+[17:04:35] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[17:04:35] [Server thread/INFO] [FML]: FML has found a non-mod file CTM-MC1.12.2-1.0.2.31.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[17:04:35] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, mixinbooter, FML, forge, hbmcore, jei, hbm] at CLIENT
+[17:04:35] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, mixinbooter, FML, forge, hbmcore, jei, hbm] at SERVER
+[17:04:35] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[17:04:36] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[17:04:36] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[17:04:36] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[17:04:36] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[17:04:36] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[17:04:36] [Server thread/ERROR] [hbm]: Shader effects manually disabled
+[17:04:37] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[17:04:42] [NTM Version Checker/INFO] [hbm]: Searching for new versions...
+[17:04:42] [NTM Version Checker/INFO] [hbm]: Found remote modVersion 2.6.1.0 (up to date)
+[17:04:42] [NTM Version Checker/INFO] [hbm]: Version checker ended.
+[17:04:42] [Server thread/INFO] [FML]: Applying holder lookups
+[17:04:42] [Server thread/INFO] [FML]: Holder lookups applied
+[17:04:43] [Server thread/INFO] [FML]: Applying holder lookups
+[17:04:43] [Server thread/INFO] [FML]: Holder lookups applied
+[17:04:43] [Server thread/INFO] [FML]: Applying holder lookups
+[17:04:43] [Server thread/INFO] [FML]: Holder lookups applied
+[17:04:43] [Server thread/INFO] [FML]: Applying holder lookups
+[17:04:43] [Server thread/INFO] [FML]: Holder lookups applied
+[17:04:43] [Server thread/INFO] [FML]: Injecting itemstacks
+[17:04:43] [Server thread/INFO] [FML]: Itemstack injection complete
+[17:04:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[17:04:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[17:04:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[17:04:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[17:04:43] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[17:04:43] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:04:43] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[17:04:43] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:04:43] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:04:43] [Server thread/INFO] [HBM CoreMod]: Patching class net.minecraft.server.management.PlayerInteractionManager / or
+[17:04:43] [Server thread/INFO] [HBM CoreMod]: Patching method: func_187251_a(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;Lnet/minecraft/item/ItemStack;Lnet/minecraft/util/EnumHand;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;FFF)Lnet/minecraft/util/EnumActionResult;
+[17:04:43] [Server thread/INFO] [HBM CoreMod]: Injected PlayerInteractionManagerHook.onSpectatorRightClickBlock before spectator PASS return
+[17:04:43] [Server thread/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
+[17:04:43] [Server thread/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.block.Block Finished.
+[17:04:43] [Server thread/INFO] [STDOUT]: [com.hbm.main.ModEventHandler:craftingRegister:1529]: Memory usage before: 301179808
+[17:04:44] [Server thread/INFO] [STDOUT]: [com.hbm.main.ModEventHandler:craftingRegister:1539]: Memory usage after: 431208424
+[17:04:44] [Server thread/INFO] [FML]: Applying holder lookups
+[17:04:44] [Server thread/INFO] [FML]: Holder lookups applied
+[17:04:44] [Netty Epoll Server IO #1/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for ingotTcAlloy to ingotAnyResistantAlloy
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for dustTcAlloy to dustAnyResistantAlloy
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for blockTcAlloy to blockAnyResistantAlloy
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for ingotCdAlloy to ingotAnyResistantAlloy
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for blockCdAlloy to blockAnyResistantAlloy
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for ingotBismuthBronze to ingotAnyBismoidBronze
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for ingotArsenicBronze to ingotAnyBismoidBronze
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for nuggetBismuth to nuggetAnyBismoid
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for ingotBismuth to ingotAnyBismoid
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for blockBismuth to blockAnyBismoid
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for nuggetArsenic to nuggetAnyBismoid
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for ingotArsenic to ingotAnyBismoid
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for ingotPolymer to ingotAnyPlastic
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for dustPolymer to dustAnyPlastic
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for blockPolymer to blockAnyPlastic
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for ingotBakelite to ingotAnyPlastic
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for dustBakelite to dustAnyPlastic
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for blockBakelite to blockAnyPlastic
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for ingotLatex to ingotAnyRubber
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for ingotRubber to ingotAnyRubber
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for ingotPolycarbonate to ingotAnyHardPlastic
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for ingotPVC to ingotAnyHardPlastic
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for oiltar to unknownTar
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for cracktar to unknownTar
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for coaltar to unknownTar
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for woodtar to unknownTar
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for plateTripleTcAlloy to plateTripleAnyResistantAlloy
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for plateSextupleTcAlloy to plateSextupleAnyResistantAlloy
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for barrelLightTcAlloy to barrelLightAnyResistantAlloy
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for barrelHeavyTcAlloy to barrelHeavyAnyResistantAlloy
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for receiverLightTcAlloy to receiverLightAnyResistantAlloy
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for receiverHeavyTcAlloy to receiverHeavyAnyResistantAlloy
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for plateTripleCdAlloy to plateTripleAnyResistantAlloy
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for plateSextupleCdAlloy to plateSextupleAnyResistantAlloy
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for barrelLightCdAlloy to barrelLightAnyResistantAlloy
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for barrelHeavyCdAlloy to barrelHeavyAnyResistantAlloy
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for receiverLightCdAlloy to receiverLightAnyResistantAlloy
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for receiverHeavyCdAlloy to receiverHeavyAnyResistantAlloy
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for plateTripleBismuthBronze to plateTripleAnyBismoidBronze
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for barrelLightBismuthBronze to barrelLightAnyBismoidBronze
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for receiverLightBismuthBronze to receiverLightAnyBismoidBronze
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for receiverHeavyBismuthBronze to receiverHeavyAnyBismoidBronze
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for plateTripleArsenicBronze to plateTripleAnyBismoidBronze
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for barrelLightArsenicBronze to barrelLightAnyBismoidBronze
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for receiverLightArsenicBronze to receiverLightAnyBismoidBronze
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for receiverHeavyArsenicBronze to receiverHeavyAnyBismoidBronze
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for stockPolymer to stockAnyPlastic
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for gripPolymer to gripAnyPlastic
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for stockBakelite to stockAnyPlastic
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for gripBakelite to gripAnyPlastic
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for stockPolycarbonate to stockAnyHardPlastic
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for gripPolycarbonate to gripAnyHardPlastic
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for stockPVC to stockAnyHardPlastic
+[17:04:45] [Server thread/INFO] [hbm]: OreDict: Re-registration for gripPVC to gripAnyHardPlastic
+[17:04:45] [Server thread/INFO] [hbm]: [NTM Fluid<=>ForgeFluid Compat] Found ForgeFluid for: WATER. Skipping registration...
+[17:04:45] [Server thread/INFO] [hbm]: [NTM Fluid<=>ForgeFluid Compat] Found ForgeFluid for: LAVA. Skipping registration...
+[17:04:45] [Server thread/INFO] [hbm]: [NTM Fluid<=>ForgeFluid Compat] Found ForgeFluid for: SULFURIC_ACID. Skipping registration...
+[17:04:45] [Server thread/INFO] [hbm]: Initializing PacketThreading in Optimized Single-Threaded mode.
+[17:04:45] [Server thread/INFO] [FML]: Injecting itemstacks
+[17:04:45] [Server thread/INFO] [FML]: Itemstack injection complete
+[17:04:45] [Server thread/INFO] [hbm]: No armor file found, registering defaults for _hbmArmor.json
+[17:04:45] [Server thread/INFO] [hbm]: Starting recipe init!
+[17:04:45] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmPress.json
+[17:04:45] [Server thread/INFO] [hbm]: Writing template file _hbmPress.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmBlastFurnaceLegacy.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmBlastFurnaceLegacy.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmShredder.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmShredder.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmSoldering.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmSoldering.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmCombination.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmCombination.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmCentrifuge.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmCentrifuge.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmCrystallizer.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmCrystallizer.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmFractions.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmFractions.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmCracking.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmCracking.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmReforming.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmReforming.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmHydrotreating.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmHydrotreating.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmLiquefactor.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmLiquefactor.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmSolidifier.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmSolidifier.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmCoker.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmCoker.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmPyrolysis.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmPyrolysis.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmBreeder.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmBreeder.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmCyclotron.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmCyclotron.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmMixer.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmMixer.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmIrradiation.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmIrradiation.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmIrradiationFluids.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmIrradiationFluids.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmCompressor.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmCompressor.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmElectrolyzerFluid.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmElectrolyzerFluid.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmElectrolyzerMetal.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmElectrolyzerMetal.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmArcWelder.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmArcWelder.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmRotaryFurnace.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmRotaryFurnace.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmExposureChamber.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmExposureChamber.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmParticleAccelerator.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmParticleAccelerator.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmAmmoPress.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmAmmoPress.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmFuelpool.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmFuelpool.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmAnvil.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmAnvil.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmPedestal.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmPedestal.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmAnnihilator.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmAnnihilator.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmCrucible.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmCrucible.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmAssemblyMachine.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmAssemblyMachine.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmChemicalPlant.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmChemicalPlant.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmPUREX.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmPUREX.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmFusion.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmFusion.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmPrecisionAssembly.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmPrecisionAssembly.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmPlasmaForge.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmPlasmaForge.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmBlastFurnace.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmBlastFurnace.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmRockMill.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmRockMill.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmSuperComputer.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmSuperComputer.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmSpaceAssembler.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmSpaceAssembler.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmCrucibleSmelting.json
+[17:04:46] [Server thread/INFO] [hbm]: GTCEu loaded = false
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmCrucibleSmelting.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmCustomMachines.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmCustomMachines.json
+[17:04:46] [Server thread/INFO] [hbm]: No recipe file found, registering defaults for hbmArcFurnace.json
+[17:04:46] [Server thread/INFO] [hbm]: Writing template file _hbmArcFurnace.json
+[17:04:46] [Server thread/INFO] [hbm]: Finished recipe init!
+[17:04:46] [Server thread/INFO] [hbm]: NTMFluidCapabilityHandler init: mapped 157 Forge Fluids, tracking 37 items.
+[17:04:46] [Server thread/INFO] [hbm]: Clearing HBM hazard calculation caches.
+[17:04:47] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 8 mods
+[17:04:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[17:04:47] [Server thread/INFO] [FML.ModTracker]: This world was saved with mod forge version 14.23.5.2860 and it is now at version 14.23.5.2859, things may not work well
+[17:04:47] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[17:04:49] [Netty Epoll Server IO #2/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[17:04:55] [Netty Epoll Server IO #3/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[17:04:56] [Server thread/INFO] [FML]: Applying holder lookups
+[17:04:56] [Server thread/INFO] [FML]: Holder lookups applied
+[17:04:56] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@664adbbc)
+[17:04:58] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 553 advancements
+[17:04:58] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@664adbbc)
+[17:04:58] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@664adbbc)
+[17:04:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[17:05:00] [Netty Epoll Server IO #0/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[17:05:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 0%
+[17:05:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 0d1d86f3-d62d-484e-86d0-cef9fc37f0c8
+[17:05:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 63%
+[17:05:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:chicken that already exists with UUID 3e9758a3-c732-4cff-82fa-2e5a915be669
+[17:05:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 72%
+[17:05:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (17.084s)! For help, type "help" or "?"
+[17:05:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting remote control listener
+[17:05:04] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: RCON running on 0.0.0.0:25575
+[17:05:04] [Server thread/INFO] [FML]: Unloading dimension -1
+[17:05:04] [Server thread/INFO] [FML]: Unloading dimension 1
+[17:06:23] [Server thread/INFO] [HBM CoreMod]: Patching class net.minecraft.entity.player.InventoryPlayer / aec
+[17:06:23] [Server thread/INFO] [HBM CoreMod]: Patching method: setInventorySlotContents / func_70299_a
+[17:06:24] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[17:06:24] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 10 mods : minecraft@1.12.2,tlauncher_custom_cape_skin@1.4,hbm@2.6.1.0,hbmcore@1.12.2-4.0.1,FML@8.0.99.99,forge@14.23.5.2864,mixinbooter@11.17,mcp@9.42,ctm@MC1.12.2-1.0.2.31,jei@4.24.0.1042
+[17:06:25] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[17:06:25] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: YTeron[/172.19.0.1:54088] logged in with entity id 341 at (1294.3603655479037, 71.78286254908492, -1226.7777334019977)
+[17:06:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: YTeron joined the game
+[17:06:27] [Server thread/INFO] [hbm]: Sending recipes to client!
+[17:06:27] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:villager that already exists with UUID 3ac92a5e-e1c5-4703-bb5c-9c34267c35a3
+[17:06:27] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:villager that already exists with UUID 10f439c4-5f32-43e6-b127-4e2b60573929
+[17:06:27] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:bat that already exists with UUID ef4ac992-1d9a-4d37-8ace-c57a31ef1136
+[17:06:27] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:bat that already exists with UUID b793ca61-e0d9-4a3b-a8b5-c4f6b0977d2f
+[17:06:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: YTeron moved too quickly! -9.283046232247443,0.0,-5.68310500158168
+[17:06:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: YTeron moved too quickly! -9.386114518249997,0.0,-4.5986375732354645
+[17:06:49] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Community Edition loaded a new chunk [52, -94] in dimension 0 (overworld) while populating chunk [51, -94], causing cascading worldgen lag.
+[17:06:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[17:06:53] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2010ms behind, skipping 40 tick(s)
+[17:06:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: YTeron moved too quickly! -8.879102915321596,-2.8181688159839524,-4.859951547080755
+[17:07:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:villager that already exists with UUID 3ac92a5e-e1c5-4703-bb5c-9c34267c35a3
+[17:07:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:villager that already exists with UUID 10f439c4-5f32-43e6-b127-4e2b60573929
+[17:08:07] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3351ms behind, skipping 67 tick(s)
+[17:08:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: YTeron moved too quickly! -8.72781516376881,3.1148948628665494,4.3865938887745415
+[17:08:28] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[17:08:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: YTeron moved too quickly! -3.69689871224125,-5.240559771961983,8.234017332999997
+[17:08:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: YTeron moved too quickly! 7.103764555558428,0.0,8.358438234147002
+[17:08:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: YTeron moved too quickly! 5.891475682281566,0.0,9.076897950676312
+[17:09:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: YTeron moved too quickly! 7.242251219224272,3.0409013432345517,6.601161215314903
+[17:11:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [YTeron: Set own game mode to Survival Mode]
+[17:11:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [YTeron: Set own game mode to Creative Mode]
+[17:11:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: YTeron moved too quickly! 4.080054084470021,0.0,9.616111885958361
+[17:11:34] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3528ms behind, skipping 70 tick(s)
+[17:14:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: YTeron moved too quickly! -9.921562818300572,-0.15000000596046448,1.9950186939132948
+[17:15:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: YTeron moved too quickly! -0.8827263502812457,0.0,10.049073962321927
+[17:15:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: YTeron lost connection: Disconnected
+[17:15:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: YTeron left the game
+[17:16:37] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[17:16:37] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 10 mods : minecraft@1.12.2,tlauncher_custom_cape_skin@1.4,hbm@2.6.1.0,hbmcore@1.12.2-4.0.1,FML@8.0.99.99,forge@14.23.5.2864,mixinbooter@11.17,mcp@9.42,ctm@MC1.12.2-1.0.2.31,jei@4.24.0.1042
+[17:16:38] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[17:16:38] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: YTeron[/172.19.0.1:51502] logged in with entity id 32361 at (1119.8443286586946, 107.95176946283905, 274.892640673622)
+[17:16:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: YTeron joined the game
+[17:16:38] [Server thread/INFO] [hbm]: Sending recipes to client!
+[17:16:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [YTeron: Stopping the server]
+[17:16:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[17:16:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[17:16:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[17:16:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[17:16:48] [Server thread/INFO] [FML]: Unloading dimension 0
+[17:16:48] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[17:16:48] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
