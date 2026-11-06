@@ -1,2 +1,0 @@
-RLCraft_SmallUndergroundSkeleton,1501,1509,-1294,-1286
-DinosaurSkull,1508,1519,-1437,-1418

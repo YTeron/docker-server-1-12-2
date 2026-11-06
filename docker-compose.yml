@@ -10,7 +10,7 @@ services:
       - EULA=TRUE
       - TYPE=FORGE
       - VERSION=1.12.2
-      - FORGE_VERSION=14.23.5.2860
+      - FORGE_VERSION=14.23.5.2859
     container_name: minecraft
     stdin_open: true
     tty: true

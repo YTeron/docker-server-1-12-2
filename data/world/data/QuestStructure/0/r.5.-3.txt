@@ -1,3 +1,0 @@
-StonePlantMound4,2925,2932,-1691,-1684
-RLCraft_DecentWitch,2806,2806,-1729,-1729
-RLCraft_UndergroundRuin2,2804,2811,-1734,-1724
